@@ -11,3 +11,9 @@ Built LDA and QDA models on variables obtained from Principal Component Analysis
 5. Final Report: `Final presentation.pptx`, `Final Report on Fraud Detection.pdf`
 
 P.S. The result obtained after running the code may be different from the result showed in the final report because the uploaded dataset is only part of the original data due to file size limit
+# Contributos
+* Ian Chi
+* Mahalakshmi Raghavan
+* Ushita Palande
+* Yu Luo
+* Riddhi Malviya
